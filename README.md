@@ -4,7 +4,6 @@
 <img width="912" height="48" alt="image" src="https://github.com/user-attachments/assets/ad575076-6498-42ac-a9f8-aaf38360800d" />
 ##  Блок схема 1  
 <img width="694" height="469" alt="image" src="https://github.com/user-attachments/assets/6df5d14b-f8e8-49f6-ad48-35574c2af321" />
-
 <img width="730" height="685" alt="image" src="https://github.com/user-attachments/assets/154d48c8-479c-465f-b3bc-e8c6b844c63a" />
 
 <img width="848" height="197" alt="image" src="https://github.com/user-attachments/assets/b412ee98-2519-439f-9155-462c451bc3a9" />
@@ -148,4 +147,4 @@ int main() {
 [+] Можу пояснити, як саме працює моя функція.  
 [+] Розумію, у яких задачах доцільно використовувати функції.  
 [+] Знаю, як можна вдосконалити свою програму (додати ще функції, параметри тощо).  
-[ ] Готовий(а) продемонструвати роботу програми під час захисту.
+[+] Готовий(а) продемонструвати роботу програми під час захисту.
